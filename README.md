@@ -6,3 +6,6 @@ No database and no installation. Just clone the repository and open index.html a
 
 Bookmark or pin the tab to easily access everytime. You can remove the reset data button if needed(from source code)
 
+# Demo
+
+http://aravindbharathy.me/old/projects/taco/
